@@ -1,0 +1,9 @@
+ImmutableMultiDict([('phrase', 'hitchiker '), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36|{'e', 'i'}
+ImmutableMultiDict([('phrase', 'radaaaa'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36|{'a'}
+ImmutableMultiDict([('phrase', 'boooksssssa'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36|{'o', 'a'}
+ImmutableMultiDict([('phrase', 'sourabh'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'a', 'o', 'u'}
+ImmutableMultiDict([('phrase', "ligade'"), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'a', 'e', 'i'}
+ImmutableMultiDict([('phrase', 'elon'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'e', 'o'}
+ImmutableMultiDict([('phrase', 'dada musk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'a', 'u'}
+ImmutableMultiDict([('phrase', 'dada musk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'a', 'u'}
+ImmutableMultiDict([('phrase', 'niogaeniop'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'a', 'i', 'e', 'o'}
