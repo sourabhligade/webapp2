@@ -1,4 +1,2 @@
 # webapp
-local server letter finder
-It has all the files required to have a code which will describe comman letters(betweeen two or more word)and provide an output  like a website over a local web server.
-Includes all templates required for the website + code 
+shows comman characteristics between two strings aver a local web server as well as shows the input data,remote adderess(ip), user agent(explorer) and results which the user has put in the server.
